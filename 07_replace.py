@@ -1,8 +1,8 @@
 # Variável
-mensagem = "Eu gosto de Java!"
+mensagem = "Eu gosto de Jeep!"
 
 # Nova variável que recebe o método upper 
-nova_mensagem = mensagem.replace("Java","Python")
+nova_mensagem = mensagem.replace("Jeep","BMW")
 
 # Exibir 
 print(nova_mensagem)
